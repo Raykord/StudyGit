@@ -61,6 +61,15 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Property_Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Enum_Type_access" xml:space="preserve">
+    <value>access</value>
+  </data>
+  <data name="Enum_Type_wish" xml:space="preserve">
+    <value>wish</value>
+  </data>
   <data name="Property_Note" xml:space="preserve">
     <value>Note</value>
   </data>
