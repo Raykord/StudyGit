@@ -61,6 +61,9 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Property_Note" xml:space="preserve">
+    <value>Note</value>
+  </data>
   <data name="Property_Responsible" xml:space="preserve">
     <value>Responsible</value>
   </data>
