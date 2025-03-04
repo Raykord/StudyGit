@@ -21,17 +21,13 @@
     "Header": {
       "NameGuid": "95ab512f-7cc1-4a93-9baa-4cbb89c80c7a",
       "BackgroundPosition": "Stretch"
-    },
-    "RemoteControls": [],
-    "Tabs": []
+    }
   },
   "DesktopViews": [],
   "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "InterfaceNamespace": "DirRX.Solution",
-  "IsolatedAssemblyName": "DirRX.Solution.Isolated",
-  "IsolatedNamespace": "DirRX.Solution.Isolated",
   "OrderedSpecialFolders": [],
   "PublicStructures": [],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
@@ -47,11 +43,11 @@
   "Versions": [
     {
       "Type": "SolutionMetadata",
-      "Number": 8
+      "Number": 6
     },
     {
       "Type": "ModuleMetadata",
-      "Number": 8
+      "Number": 6
     },
     {
       "Type": "DomainApi",
