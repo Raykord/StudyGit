@@ -1,0 +1,64 @@
+{
+  "$type": "Sungero.Metadata.LayerModuleMetadata, Sungero.Metadata",
+  "NameGuid": "46652680-2762-4b88-9c8d-449d239b2004",
+  "Name": "Meetings",
+  "AssociatedGuid": "13e8b787-7077-4240-89c6-75774e584e2d",
+  "AsyncHandlers": [],
+  "BaseGuid": "593dcc11-15ee-49f2-b4ef-bf4cf7867055",
+  "ClientBaseAssemblyName": "DirRX.Solution.ClientBase",
+  "ClientBaseNamespace": "DirRX.Solution.Module.Meetings.ClientBase",
+  "Code": "Meeting",
+  "CompanyCode": "Sungero",
+  "ExplorerTreeOrder": [],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "IsVisible": false,
+  "LayeredFromGuid": "593dcc11-15ee-49f2-b4ef-bf4cf7867055",
+  "PublicFunctions": [
+    {
+      "Name": "CreateNewMeeting",
+      "Parameters": [
+        {
+          "Name": "meetingName",
+          "ParameterType": "global::System.String",
+          "ParameterTypeFullName": "System.String"
+        },
+        {
+          "Name": "meetingDate",
+          "ParameterType": "global::System.DateTime",
+          "ParameterTypeFullName": "System.DateTime"
+        },
+        {
+          "Name": "meetingDuration",
+          "ParameterType": "global::System.Double",
+          "ParameterTypeFullName": "System.Double"
+        },
+        {
+          "Name": "addMeetingMembers",
+          "ParameterType": "global::System.Collections.Generic.List<global::System.Int64>",
+          "ParameterTypeFullName": "System.Collections.Generic.List"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void",
+      "WebApiRequestType": "Post"
+    }
+  ],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.Solution.Module.Meetings",
+  "ResourcesKeys": [],
+  "SpecialFolders": [],
+  "Version": "4.10.49.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "LayerModuleMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 8
+    }
+  ]
+}
